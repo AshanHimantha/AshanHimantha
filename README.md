@@ -89,21 +89,6 @@ Unified ticket and post management system for AppleCare.
 - [Product Service](https://github.com/AshanHimantha/product-service)
 Microservices-based agricultural platform, with dedicated user and product services.
 
-## 🎯 Skills Overview
-
-```javascript
-const skills = {
-    frontend: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'React.js', 'Next.js'],
-    styling: ['Tailwind CSS', 'Bootstrap'],
-    backend: ['Node.js', 'Java', 'Java EE', 'Spring Boot', 'PHP', 'Laravel'],
-    mobile: ['React Native', 'Android'],
-    databases: ['PostgreSQL', 'MySQL', 'MongoDB', 'Firebase'],
-    cloud: ['AWS', 'DigitalOcean', 'Hostinger', 'Heroku', 'Docker'],
-    apis: ['REST API', 'Swagger Documentation', 'Postman Testing'],
-    design: ['Figma', 'Adobe Photoshop', 'Adobe Illustrator'],
-    architecture: ['Monolith', 'Modular', 'Microservices', 'RESTful APIs', 'MVC Pattern']
-};
-```
 
 ## 🏗️ Architecture & Design Patterns
 
