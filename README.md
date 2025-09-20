@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashan Himantha
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer focused on the software industry, with expertise across multiple technologies, platforms, and design tools.
+Welcome to my GitHub! I’m a passionate full-stack developer who loves building modern software solutions. I specialize in creating web, mobile, and backend systems using a wide range of technologies. Explore my projects below and feel free to connect!
 
 ## 🚀 Technology Stack
 
