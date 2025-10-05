@@ -110,17 +110,6 @@ Microservices-based agricultural platform, with dedicated user and product servi
 - ⚡ Microservices: Distributed, scalable services
 - 🔌 RESTful APIs: Stateless web services
 
-### Database Design
-- 🐘 PostgreSQL: Advanced relational database design and optimization
-- 🐬 MySQL: Web database management
-- 🍃 MongoDB: NoSQL document solutions
-- 🔥 Firebase: Real-time database integration
-
-### Development Workflow
-- 📝 API Documentation: Swagger/OpenAPI
-- 🧪 API Testing: Postman collections
-- 🔄 CI/CD: Automated pipelines across cloud platforms
-
 ## 📫 Connect With Me
 
 - 📧 Email: ashanhimantha321@gmail.com
