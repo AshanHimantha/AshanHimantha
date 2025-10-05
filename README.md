@@ -87,7 +87,7 @@ Welcome to my GitHub! I’m a passionate full-stack developer who loves building
 A complete Android solution including mobile app, backend, and web-based admin dashboard.
 
 ### 🏦 Enterprise Banking System
-- [Backend Platform](https://github.com/AshanHimantha/enterprise-banking-platform) (Java/PostgreSQL)
+- [Backend Platform](https://github.com/AshanHimantha/enterprise-banking-platform) (Java/MySQL)
 - [Web Frontend](https://github.com/AshanHimantha/baking-webapp) (TypeScript)
 A secure, modular banking solution with a web interface and robust backend.
 
