@@ -74,10 +74,6 @@ Welcome to my GitHub! I’m a passionate full-stack developer who loves building
 - Cloud, DevOps & Containerization: Deployments and automation on AWS, DigitalOcean, Hostinger, Heroku, Docker
 - UI/UX Design: Prototyping and design systems for software products
 
-## 📊 GitHub Stats
-
-![Ashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshanHimantha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanHimantha&layout=compact&theme=radical)
 
 ## 🔥 Featured Projects
 
